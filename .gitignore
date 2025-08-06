@@ -1,0 +1,6 @@
+# Ignore credentials and debug screenshots
+BotAccountCredentials.txt
+instagram_signup_debug.png
+__pycache__/
+*.pyc
+.env
